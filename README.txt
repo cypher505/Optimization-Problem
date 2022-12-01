@@ -1,2 +1,2 @@
 Cypher 
-Hote3vago
+Hotel3Vago
